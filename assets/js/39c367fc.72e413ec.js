@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpixiu_quant_page=self.webpackChunkpixiu_quant_page||[]).push([[579],{8156:e=>{e.exports=JSON.parse('[{"label":"\u91cf\u5316","permalink":"/pixiu/blog/tags/\u91cf\u5316","count":1}]')}}]);

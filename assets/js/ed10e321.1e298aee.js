@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpixiu_quant_page=self.webpackChunkpixiu_quant_page||[]).push([[835],{5687:e=>{e.exports=JSON.parse('{"permalink":"/pixiu/blog/tags/\u91cf\u5316","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
